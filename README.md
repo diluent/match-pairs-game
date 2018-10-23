@@ -1,14 +1,12 @@
-# Schmemory starter kit
+Match-Pairs-Memory-Game
+===========
 
-This starter kit includes babel, sass, webpack and webpack-dev-server to hopefully help with
-reducing the time spent on boilerplate stuff. Please start by running
+VanillaJS example app that implements the famous memory game of finding matching pairs of cards.
+
+To run the game you need to do
 
 ```bash
-npm install
+npm i && npm run start
 ```
 
-This will get these packages installed. When that's done, you can — at any time — do `npm start` to
-run a development server.
-
-If you are interested in using a simple server to produce images for your cards, you can look in the
-sub-folder [example-image-server](./example-image-server).
+and start [image-builder](./image-server).
